@@ -1,0 +1,12 @@
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\bin\Debug\ExcelToOracle.exe.config
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\bin\Debug\ExcelToOracle.exe
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\bin\Debug\ExcelToOracle.pdb
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\bin\Debug\Oracle.DataAccess.dll
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\obj\Debug\ExcelToOracle.csprojResolveAssemblyReference.cache
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\obj\Debug\ExcelToOracle.Form1.resources
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\obj\Debug\ExcelToOracle.Properties.Resources.resources
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\obj\Debug\ExcelToOracle.csproj.GenerateResource.Cache
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\obj\Debug\ExcelToOracle.exe
+c:\users\omkol\documents\visual studio 2013\Projects\ExcelToOracle\ExcelToOracle\obj\Debug\ExcelToOracle.pdb
+C:\Users\OmKol\Documents\Visual Studio 2013\Projects\ExcelToOracle\ExcelToOracle\bin\Debug\EPPlus.dll
+C:\Users\OmKol\Documents\Visual Studio 2013\Projects\ExcelToOracle\ExcelToOracle\bin\Debug\EPPlus.xml
